@@ -1,0 +1,2 @@
+git remote add origin https://github.com/SENIN_KULLANICI_ADIN/chaos-monkey.git
+git push -u origin master
